@@ -5,7 +5,7 @@ module.exports = {
     },
 
     password: {
-      type: 'password',
+      type: 'string',
     },
 
     name: {
